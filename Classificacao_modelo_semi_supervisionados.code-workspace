@@ -1,0 +1,44 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.colorTheme": "Dark Modern",
+        "workbench.colorCustomizations": {
+            "focusBorder": "#3FB950",
+            "contrastBorder": "#30363D",
+            "contrastActiveBorder": "#3FB950",
+            "foreground": "#E6EDF3",
+            "descriptionForeground": "#8B949E",
+            "selection.background": "#1B4332",
+            "icon.foreground": "#8B949E",
+            "activityBar.border": "#30363D",
+            "sideBar.background": "#0D1117",
+            "sideBar.foreground": "#E6EDF3",
+            "sideBarSectionHeader.background": "#161B22",
+            "sideBarTitle.foreground": "#E6EDF3",
+            "editor.background": "#0D1117",
+            "editor.foreground": "#E6EDF3",
+            "editorLineNumber.foreground": "#6E7681",
+            "editorLineNumber.activeForeground": "#E6EDF3",
+            "editor.selectionBackground": "#1B4332",
+            "editor.lineHighlightBackground": "#161B22",
+            "editorCursor.foreground": "#3FB950",
+            "panel.background": "#010409",
+            "tab.activeBackground": "#1F6FEB",
+            "tab.activeForeground": "#E6EDF3",
+            "tab.inactiveBackground": "#161B22",
+            "tab.inactiveForeground": "#8B949E",
+            "notebook.cellBorderColor": "#30363D",
+            "notebook.cellEditorBackground": "#0D1117",
+            "notebook.focusedCellBorder": "#3FB950",
+            "notebook.inactiveFocusedCellBorder": "#238636",
+            "notebook.selectedCellBackground": "#161B22",
+            "notebook.cellToolbarSeparator": "#30363D",
+            "notebook.outputContainerBackgroundColor": "#0D1117"
+        },
+        "folder-color.pathColors": []
+    }
+}
