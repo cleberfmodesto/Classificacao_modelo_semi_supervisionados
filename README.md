@@ -3,7 +3,7 @@
 Como construir classificadores úteis quando apenas parte dos dados tem rótulos? Este projeto explora essa questão com dois exemplos práticos: classificação da qualidade do leite e uma atividade de classificação com dados de diabetes.
 
 [![Abrir aula no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cleberfmodesto/Classificacao_modelo_semi_supervisionados/blob/main/Aulas/Aula%2B5%2B-%2BAprendizado%2Bsemi-supervisionado.ipynb)
-[![Abrir atividade resolvida no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cleberfmodesto/Classificacao_modelo_semi_supervisionados/blob/main/Atividades/M%C3%A3o%20na%20massa%20%28com%20solu%C3%A7%C3%A3o%29.ipynb)
+
 
 ## O problema
 
